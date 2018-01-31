@@ -8,7 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="groupon-admin-controller" />
         <module name="groupon-admin-web" />
+        <module name="groupon-imageserver" />
         <module name="groupon-service" />
+        <module name="groupon-site-controller" />
+        <module name="groupon-site-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,7 +19,11 @@
       <module name="groupon-admin" target="1.5" />
       <module name="groupon-admin-controller" target="1.5" />
       <module name="groupon-admin-web" target="1.5" />
+      <module name="groupon-imageserver" target="1.5" />
       <module name="groupon-service" target="1.5" />
+      <module name="groupon-site" target="1.5" />
+      <module name="groupon-site-controller" target="1.5" />
+      <module name="groupon-site-web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

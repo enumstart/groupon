@@ -6,7 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/admin/groupon-admin.iml" filepath="$PROJECT_DIR$/admin/groupon-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/admin/controller/groupon-admin-controller.iml" filepath="$PROJECT_DIR$/admin/controller/groupon-admin-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/admin/web/groupon-admin-web.iml" filepath="$PROJECT_DIR$/admin/web/groupon-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageserver/groupon-imageserver.iml" filepath="$PROJECT_DIR$/imageserver/groupon-imageserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/groupon-service.iml" filepath="$PROJECT_DIR$/service/groupon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/site/groupon-site.iml" filepath="$PROJECT_DIR$/site/groupon-site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/site/controller/groupon-site-controller.iml" filepath="$PROJECT_DIR$/site/controller/groupon-site-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/site/web/groupon-site-web.iml" filepath="$PROJECT_DIR$/site/web/groupon-site-web.iml" />
     </modules>
   </component>
 </project>

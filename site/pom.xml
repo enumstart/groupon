@@ -4,16 +4,21 @@
         xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
 
+    <parent>
+        <groupId>com.groupon</groupId>
+        <artifactId>groupon</artifactId>
+        <version>1.0</version>
+    </parent>
+
     <groupId>com.groupon</groupId>
-    <artifactId>groupon</artifactId>
+    <artifactId>groupon-site</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
     <name>${project.artifactId}</name>
+    <description>site</description>
 
     <modules>
-        <module>service</module>
-        <module>admin</module>
-        <module>site</module>
-        <module>imageserver</module>
+        <module>controller</module>
+        <module>web</module>
     </modules>
 </project>
