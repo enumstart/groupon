@@ -15,15 +15,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="groupon" target="1.5" />
-      <module name="groupon-admin" target="1.5" />
-      <module name="groupon-admin-controller" target="1.5" />
-      <module name="groupon-admin-web" target="1.5" />
-      <module name="groupon-imageserver" target="1.5" />
-      <module name="groupon-service" target="1.5" />
-      <module name="groupon-site" target="1.5" />
-      <module name="groupon-site-controller" target="1.5" />
-      <module name="groupon-site-web" target="1.5" />
+      <module name="groupon" target="8" />
+      <module name="groupon-admin" target="8" />
+      <module name="groupon-admin-controller" target="8" />
+      <module name="groupon-admin-web" target="8" />
+      <module name="groupon-imageserver" target="8" />
+      <module name="groupon-service" target="8" />
+      <module name="groupon-site" target="8" />
+      <module name="groupon-site-controller" target="8" />
+      <module name="groupon-site-web" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
