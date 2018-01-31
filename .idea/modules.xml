@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/groupon.iml" filepath="$PROJECT_DIR$/groupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/groupon-admin.iml" filepath="$PROJECT_DIR$/admin/groupon-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/controller/groupon-admin-controller.iml" filepath="$PROJECT_DIR$/admin/controller/groupon-admin-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/web/groupon-admin-web.iml" filepath="$PROJECT_DIR$/admin/web/groupon-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/groupon-service.iml" filepath="$PROJECT_DIR$/service/groupon-service.iml" />
+    </modules>
+  </component>
+</project>
